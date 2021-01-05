@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Kotlin1</string>
+    <string name="affirmation1">Event number one</string>
+    <string name="affirmation2">Another event</string>
+    <string name="affirmation3">Holiday event</string>
+    <string name="affirmation4">Christmas event</string>
+    <string name="affirmation5">Popular event title</string>
+    <string name="affirmation6">Event for kids</string>
+    <string name="affirmation7">Event.</string>
+    <string name="affirmation8">Marathon</string>
+    <string name="affirmation9">Concert</string>
+    <string name="affirmation10">Festival</string>
 </resources>
